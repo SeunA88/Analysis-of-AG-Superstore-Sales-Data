@@ -8,14 +8,20 @@ This analysis involves in-depth business scrutiny of the sales data of AG Supers
 
 Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-AG-Superstore-Sales-Data/blob/main/Superstore%20data.csv)
 
-Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were obtained from the data using Pivot tables in Excel:
-1.)	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
-2.)	Average Height and Weight by Gender.
-3.)	Number of Students by Blood Type.
-4.)	Number of Students who smoke and those who don’t.
-5.)	Number of Students who have diabetes and those who don’t.
-These acquired insights were further displayed with various visualization tools in Excel. Please find below each pivot table analysis alongside their visuals.
+Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were then obtained from the data using various Excel functions:
+1.)	In which state, Segment and category was the highest profit generated?
+2.) The total revenue generated from the sales of Appliances in Carlifornia
+3.) In which state, Segment and category was the highest unit of goods sold?
+4.)	What are the average sales and profit by categories?
+5.) What are the total quantities sold by categories and region?
+6.) What are the total sales and profit by region?
+7.) What are the total sales and profit by segment?
+8.) What are the total sales and profit by ship mode?
+
+These acquired insights were further displayed with various visualization tools in Excel. Please find below each  analysis alongside some visuals.
+
 Result of Analysis
+
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/ visuals
