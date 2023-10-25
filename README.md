@@ -12,7 +12,7 @@ Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-A
 Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were then obtained from the data using various Excel functions:
 1. In which state, Segment and category was the highest profit generated?
 2. In which state, Segment and category was the highest unit of goods sold?
-3.	What are the average sales and profit by categories?
+3. What are the average sales and profit by categories?
 4. What are the total quantities sold by categories and region?
 5. What are the total sales and profit by region?
 6. What are the total sales and profit by segment?
@@ -37,10 +37,14 @@ This was determined using the VLOOKUP function
 
 #### Analysis Insight: 
 ---
--	Number of Students by Blood Type.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
-Analysis Insight: 
+
+-	What are the average sales and profit by categories?
+This was determined using pivot table, with pivot fields functions SUM in the value field and Categories in the column field.
+
+![](Categories.png)
+
+#### Analysis Insight: 
+
 -	Number of Students who smoke and those who don’t.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/visuals
