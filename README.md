@@ -1,6 +1,6 @@
 # Analysis of AG Superstore Sales Data
 ---
-![](store.png)
+![](store.jpg)
 
 Introduction
 This analysis entails datasets of medical students from the College of Medicine, YK. It includes attributes of about 200,000 medical students such as Student ID, Age, Gender, Height, Weight, Blood Type, BMI, Temperature, Heart Rate, Blood Pressure, Cholesterol, Diabetes and smoking spread out into individual columns. 
