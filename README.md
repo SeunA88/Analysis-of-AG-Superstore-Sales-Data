@@ -27,13 +27,15 @@ This was determined using the VLOOKUP function
 ![](Profit.png)
 
 ---
-Screenshot/ visuals
-Analysis Insight: 
+#### Analysis Insight: 
 
--	Average Height and Weight by Gender.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
-Analysis Insight: 
+-	In which state, Segment and category was the highest unit of goods sold?
+This was determined using the VLOOKUP function
+
+![](Sales.png)
+
+---
+#### Analysis Insight: 
 
 -	Number of Students by Blood Type.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
