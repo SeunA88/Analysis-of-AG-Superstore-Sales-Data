@@ -4,6 +4,7 @@
 ---
 
 ## Introduction
+
 This analysis involves in-depth business scrutiny of the sales data of AG Superstore to showcase imprtant insights which can help in maximizing profit and sales in general.  It Sales data contains attributes of almost 10,000 Sales orders such as Row ID,	Order ID,	Order Date,	Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment,	Country,	City,	State,	Postal Code,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Discount, and	Profit spread out into individual columns. 
 
 Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-AG-Superstore-Sales-Data/blob/main/Superstore%20data.csv)
@@ -19,24 +20,23 @@ Analysis of this data was carried out to acquire some useful insights from the d
 
 These acquired insights were further displayed with various visualization tools in Excel. Please find below each  analysis alongside some visuals.
 
-Result of Analysis
+## Result of Analysis
 
 -	In which state, Segment and category was the highest profit generated?
 This was determined using the VLOOKUP function
 
 ![](Profit.png)
 
----
 #### Analysis Insight: 
+---
 
 -	In which state, Segment and category was the highest unit of goods sold?
 This was determined using the VLOOKUP function
 
-![](Sales.png)
+![](sales.png)
 
----
 #### Analysis Insight: 
-
+---
 -	Number of Students by Blood Type.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/visuals
