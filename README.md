@@ -85,6 +85,5 @@ This was determined using pivot table, with pivot fields function SUM in the val
 ---
 
 ## Conclusion
-
 Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions.
 ---
