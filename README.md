@@ -12,7 +12,7 @@ Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-A
 Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were then obtained from the data using various Excel functions:
 
 1. In which state, Segment and category was the highest profit generated?
-2. In which state, Segment and category was the highest unit of goods sold?
+2. In which state, Segment and category was the highest sales generated?
 3. What are the average sales and profit by categories?
 4. What are the total quantities sold by categories and region?
 5. What are the total sales and profit by region?
@@ -29,16 +29,13 @@ This was determined using the VLOOKUP function.
 
 ![](Profit.png)
 
-#### Analysis Insight: 
----
-
--	In which state, Segment and category was the highest unit of goods sold?
+-	In which state, Segment and category was the highest sales generated?
 
 This was determined using the VLOOKUP function
 
 ![](sales.png)
 
-#### Analysis Insight: 
+#### Analysis Insight for 1 and 2:  From the above analyses, it can be seen that highest profit was generated in Indiana state, in the Corporate segment and Technology category while the highest sale was generated in Florida, in Home office segment and Technology category. With this information, more resources can be channeled towards these areas to maximize their sales and profit potential. Noteworthy is the Technology category which not only brings in the highest sales but also the highest profit. Also of importance is the fact that the country and segment with the highest sales is not the same as those with the highest profit, hence, informed decisions can be made by stakeholders based on this surprising fact.
 ---
 
 -	What are the average sales and profit by categories?
