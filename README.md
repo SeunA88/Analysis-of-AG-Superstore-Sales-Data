@@ -64,7 +64,8 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 ![](Region_.png) ![](Region.png)
 
-#### Analysis Insight: 
+**Analysis Insight**: From this analysis, it can be seen that the highest **total** sales and **total** profit was generated in the Western region of the Country. The lowest **total** sales was generated in the Southern region while the lowest **total** profit was generated in the Central region. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country.
+
 ---
 
 - What are the total sales and profit by segment?
@@ -73,7 +74,8 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 ![](Segment_.png) ![](Segment.png)
 
-#### Analysis Insight: 
+**Analysis Insight**: Based on the analysis above, the highest **total** sales and **total** profit was generated in the Consumer segment while the Home Office segment has the lowest **total** sale and **total** profit. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country.
+
 ---
 
 - What are the total sales and profit by ship mode?
@@ -82,7 +84,8 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 ![](Shipmode.png) ![](Ship_mode.png)
 
-#### Analysis Insight: 
+**Analysis Insight**: Based on the analysis above, the highest **total** sales and **total** profit was generated in the Standard class Ship mode while the Same day delivery Ship mode has the lowest **total** sale and **total** profit. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country. For example, more efforts can vbe channelled towards optimizing Standard class delivery mode in order to maximize sales and profit.
+
 ---
 
 ## Conclusion
