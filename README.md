@@ -41,19 +41,21 @@ This was determined using the VLOOKUP function
 
 -	What are the average sales and profit by categories?
 
-This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the categories in the "Column" field. A Column chart was used to visualize the insight generated.
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the categories in the "Row" field. A Column chart was used to visualize the insight generated.
 
 ![](Category.png) ![](Categories.png) 
 
-#### Analysis Insight: 
+**Analysis Insight**: From this analysis, it can be seen that the technology category produces the highest average sale and profit. hhis shows that items in the Technology categorry sell at a higher price compared to other items on sale and they also generate a higher profit as well. From thsi insight stakeholders can make informed decisions on how to maximize the profit potential of items in the technology category.
 
+---
 -	What are the total quantities sold by categories and region?
 
 This was determined using the SUM function in the pivot table "Value" field for the total quantity sold, with the categories in the "Column" field and region in the "Row" field. A Column chart was used to visualize the insight generated.
 
 ![](Quantity_sold.png) ![](Quantitysold.png)
 
-#### Analysis Insight: 
+**Analysis Insight**: From the above analysis, it can be seen that the highest quantity of goods were sold in the Western region of USA, with Office Supplies topping the chart among the categories. The lowest number of goods were sold in the Southern part of the country. With this insight, different departments in the store such as inventory and logistics can gain useful information that can help boost operations and in return sales in these areas.
+
 ---
 
 - What are the total sales and profit by region? 
