@@ -50,17 +50,41 @@ This was determined using pivot table, with pivot fields functions AVERAGE in th
 
 -	What are the total quantities sold by categories and region?
 
-This was determined using pivot table, with pivot fields functions SUM in the value field and Categories and region in the column and row feld respectively.
+This was determined using pivot table, with pivot fields function SUM in the value field and Categories and region in the column and row feld respectively.
 
 ![](Quantity_sold.png)
 
 #### Analysis Insight: 
 ---
 
--	Number of Students who have diabetes and those who don’t.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
-Analysis Insight: 
+- What are the total sales and profit by region? 
 
-Conclusion
+This was determined using pivot table, with pivot fields function SUM in the value field and region in the column field.
+
+![](Region.png)
+
+#### Analysis Insight: 
+---
+
+- What are the total sales and profit by segment?
+
+This was determined using pivot table, with pivot fields function SUM in the value field and segment in the column field.
+
+![](Segment.png)
+
+#### Analysis Insight: 
+---
+
+What are the total sales and profit by ship mode?
+
+This was determined using pivot table, with pivot fields function SUM in the value field and ship mode in the column field.
+
+![](Ship_mode.png)
+
+#### Analysis Insight: 
+---
+
+## Conclusion
+
 Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions.
+---
