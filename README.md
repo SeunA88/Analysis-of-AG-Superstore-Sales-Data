@@ -21,8 +21,12 @@ These acquired insights were further displayed with various visualization tools 
 
 Result of Analysis
 
--	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
+-	In which state, Segment and category was the highest profit generated?
+This was determined using the VLOOKUP function
+
+![](Profit.png)
+
+---
 Screenshot/ visuals
 Analysis Insight: 
 
