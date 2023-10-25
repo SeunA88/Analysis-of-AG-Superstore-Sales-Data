@@ -4,8 +4,10 @@
 ---
 
 ## Introduction
-This analysis involves in-depth business scrutiny of the sales data of AG Superstore to showcase imprtant insights which can help in maximizing profit and sales in general.  It Sales data contains attributes of almost 10,000 Sales orders such as Order ID, Age, Gender, Height, Weight, Blood Type, BMI, Temperature, Heart Rate, Blood Pressure, Cholesterol, Diabetes and smoking spread out into individual columns. 
+This analysis involves in-depth business scrutiny of the sales data of AG Superstore to showcase imprtant insights which can help in maximizing profit and sales in general.  It Sales data contains attributes of almost 10,000 Sales orders such as Row ID,	Order ID,	Order Date,	Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment,	Country,	City,	State,	Postal Code,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Discount, and	Profit spread out into individual columns. 
+
 Kindly feel free to interact with data here…..link
+
 Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were obtained from the data using Pivot tables in Excel:
 1.)	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
 2.)	Average Height and Weight by Gender.
