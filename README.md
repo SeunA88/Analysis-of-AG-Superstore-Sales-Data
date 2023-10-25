@@ -52,8 +52,11 @@ This was determined using pivot table, with pivot fields functions AVERAGE in th
 
 This was determined using pivot table, with pivot fields functions SUM in the value field and Categories and region in the column and row feld respectively.
 
-Screenshot/visuals
-Analysis Insight: 
+![](Quantity_sold.png)
+
+#### Analysis Insight: 
+---
+
 -	Number of Students who have diabetes and those who don’t.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/visuals
