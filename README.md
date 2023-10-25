@@ -75,7 +75,7 @@ This was determined using pivot table, with pivot fields function SUM in the val
 #### Analysis Insight: 
 ---
 
-What are the total sales and profit by ship mode?
+- What are the total sales and profit by ship mode?
 
 This was determined using pivot table, with pivot fields function SUM in the value field and ship mode in the column field.
 
