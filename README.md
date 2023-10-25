@@ -53,7 +53,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 This was determined using the SUM function in the pivot table "Value" field for the total quantity sold, with the categories in the "Column" field and region in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Quantitysold.png) ![](Quantity_sold.png)
+![](Quantity_sold.png) ![](Quantitysold.png)
 
 #### Analysis Insight: 
 ---
