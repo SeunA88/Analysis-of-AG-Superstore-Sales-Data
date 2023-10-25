@@ -9,8 +9,8 @@ This analysis involves in-depth business scrutiny of the sales data of AG Supers
 Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-AG-Superstore-Sales-Data/blob/main/Superstore%20data.csv)
 
 Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were then obtained from the data using various Excel functions:
-1.)	In which state, Segment and category was the highest profit generated?
-2.) The total revenue generated from the sales of Appliances in Carlifornia
+1. In which state, Segment and category was the highest profit generated?
+2. The total revenue generated from the sales of Appliances in Carlifornia
 3.) In which state, Segment and category was the highest unit of goods sold?
 4.)	What are the average sales and profit by categories?
 5.) What are the total quantities sold by categories and region?
