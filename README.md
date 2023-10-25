@@ -45,7 +45,7 @@ This was determined using the VLOOKUP function
 
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the categories in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Categories.png) ![](Category.png)
+![](Category.png) ![](Categories.png) 
 
 #### Analysis Insight: 
 
@@ -53,7 +53,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 This was determined using the SUM function in the pivot table "Value" field for the total quantity sold, with the categories in the "Column" field and region in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Quantity_sold.png) ![](Quantity_sold.png)
+![](Quantitysold.png) ![](Quantity_sold.png)
 
 #### Analysis Insight: 
 ---
@@ -62,7 +62,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the region in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Region.png)
+![](Region_.png) ![](Region.png)
 
 #### Analysis Insight: 
 ---
@@ -71,7 +71,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the segment in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Segment.png)
+![](Segment_.png) ![](Segment.png)
 
 #### Analysis Insight: 
 ---
@@ -80,7 +80,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the Ship mode in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Ship_mode.png)
+![](Shipmode.png) ![](Ship_mode.png)
 
 #### Analysis Insight: 
 ---
