@@ -43,7 +43,7 @@ This was determined using the VLOOKUP function
 
 -	What are the average sales and profit by categories?
 
-This was determined using pivot table, with pivot fields functions AVERAGE in the value field and Categories in the column field.
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the categories in the "Column" field. A Column chart was used to visualize the insight generated.
 
 ![](Categories.png)
 
@@ -51,7 +51,7 @@ This was determined using pivot table, with pivot fields functions AVERAGE in th
 
 -	What are the total quantities sold by categories and region?
 
-This was determined using pivot table, with pivot fields function SUM in the value field and Categories and region in the column and row feld respectively.
+This was determined using the SUM function in the pivot table "Value" field for the total quantity sold, with the categories in the "Column" field and region in the "Row" field. A Column chart was used to visualize the insight generated.
 
 ![](Quantity_sold.png)
 
@@ -60,7 +60,7 @@ This was determined using pivot table, with pivot fields function SUM in the val
 
 - What are the total sales and profit by region? 
 
-This was determined using pivot table, with pivot fields function SUM in the value field and region in the column field.
+This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the region in the "Column" field. A Column chart was used to visualize the insight generated.
 
 ![](Region.png)
 
@@ -69,7 +69,7 @@ This was determined using pivot table, with pivot fields function SUM in the val
 
 - What are the total sales and profit by segment?
 
-This was determined using pivot table, with pivot fields function SUM in the value field and segment in the column field.
+This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the segment in the "Column" field. A Column chart was used to visualize the insight generated.
 
 ![](Segment.png)
 
@@ -78,7 +78,7 @@ This was determined using pivot table, with pivot fields function SUM in the val
 
 - What are the total sales and profit by ship mode?
 
-This was determined using pivot table, with pivot fields function SUM in the value field and ship mode in the column field.
+This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the Ship mode in the "Column" field. A Column chart was used to visualize the insight generated.
 
 ![](Ship_mode.png)
 
@@ -86,4 +86,4 @@ This was determined using pivot table, with pivot fields function SUM in the val
 ---
 
 ## Conclusion
-Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions.
+A clear understanding of the present state of health of AG Superstores have been made possible using analysis functions in Excel. Insights generated from these analyses can be chanelled towards promoting sales and making decisions for long term profit and sales maximization by stakeholders.
