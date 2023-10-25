@@ -42,14 +42,16 @@ This was determined using the VLOOKUP function
 
 -	What are the average sales and profit by categories?
 
-This was determined using pivot table, with pivot fields functions SUM in the value field and Categories in the column field.
+This was determined using pivot table, with pivot fields functions AVERAGE in the value field and Categories in the column field.
 
 ![](Categories.png)
 
 #### Analysis Insight: 
 
--	Number of Students who smoke and those who don’t.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
+-	What are the total quantities sold by categories and region?
+
+This was determined using pivot table, with pivot fields functions SUM in the value field and Categories and region in the column and row feld respectively.
+
 Screenshot/visuals
 Analysis Insight: 
 -	Number of Students who have diabetes and those who don’t.
