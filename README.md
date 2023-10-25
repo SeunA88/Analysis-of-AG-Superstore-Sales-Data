@@ -10,13 +10,12 @@ Kindly feel free to interact with data (https://github.com/SeunA88/Analysis-of-A
 
 Analysis of this data was carried out to acquire some useful insights from the dataset. Firstly, each column was formatted to depict the data therein. The following insights were then obtained from the data using various Excel functions:
 1. In which state, Segment and category was the highest profit generated?
-2. The total revenue generated from the sales of Appliances in Carlifornia
-3.) In which state, Segment and category was the highest unit of goods sold?
-4.)	What are the average sales and profit by categories?
-5.) What are the total quantities sold by categories and region?
-6.) What are the total sales and profit by region?
-7.) What are the total sales and profit by segment?
-8.) What are the total sales and profit by ship mode?
+2. In which state, Segment and category was the highest unit of goods sold?
+3.	What are the average sales and profit by categories?
+4. What are the total quantities sold by categories and region?
+5. What are the total sales and profit by region?
+6. What are the total sales and profit by segment?
+7. What are the total sales and profit by ship mode?
 
 These acquired insights were further displayed with various visualization tools in Excel. Please find below each  analysis alongside some visuals.
 
