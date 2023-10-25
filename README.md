@@ -23,6 +23,7 @@ These acquired insights were further displayed with various visualization tools 
 ## Result of Analysis
 
 -	In which state, Segment and category was the highest profit generated?
+
 This was determined using the VLOOKUP function
 
 ![](Profit.png)
@@ -31,6 +32,7 @@ This was determined using the VLOOKUP function
 ---
 
 -	In which state, Segment and category was the highest unit of goods sold?
+
 This was determined using the VLOOKUP function
 
 ![](sales.png)
@@ -39,6 +41,7 @@ This was determined using the VLOOKUP function
 ---
 
 -	What are the average sales and profit by categories?
+
 This was determined using pivot table, with pivot fields functions SUM in the value field and Categories in the column field.
 
 ![](Categories.png)
