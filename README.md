@@ -43,7 +43,7 @@ This was determined using the VLOOKUP function
 
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the categories in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Category.png) ![](Categories.png) 
+![](Category1.png) 
 
 **Analysis Insight**: From this analysis, it can be seen that the technology category produces the highest average sale and profit. hhis shows that items in the Technology categorry sell at a higher price compared to other items on sale and they also generate a higher profit as well. From thsi insight stakeholders can make informed decisions on how to maximize the profit potential of items in the technology category.
 
@@ -52,7 +52,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 This was determined using the SUM function in the pivot table "Value" field for the total quantity sold, with the categories in the "Column" field and region in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Quantity_sold.png) ![](Quantitysold.png)
+![](Quantity.png)
 
 **Analysis Insight**: From the above analysis, it can be seen that the highest quantity of goods were sold in the Western region of USA, with Office Supplies topping the chart among the categories. The lowest number of goods were sold in the Southern part of the country. With this insight, different departments in the store such as inventory and logistics can gain useful information that can help boost operations and in return sales in these areas.
 
@@ -62,7 +62,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the region in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Region_.png) ![](Region.png)
+![](Region0.png)
 
 **Analysis Insight**: From this analysis, it can be seen that the highest **total** sales and **total** profit was generated in the Western region of the Country. The lowest **total** sales was generated in the Southern region while the lowest **total** profit was generated in the Central region. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country.
 
@@ -72,7 +72,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the segment in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Segment_.png) ![](Segment.png)
+![](Segment1.png)
 
 **Analysis Insight**: Based on the analysis above, the highest **total** sales and **total** profit was generated in the Consumer segment while the Home Office segment has the lowest **total** sale and **total** profit. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country.
 
@@ -82,7 +82,7 @@ This was determined using the SUM function in the pivot table "Value" field for 
 
 This was determined using the SUM function in the pivot table "Value" field for total sales and profit, with the Ship mode in the "Column" field. A Column chart was used to visualize the insight generated.
 
-![](Shipmode.png) ![](Ship_mode.png)
+![](Shipmode1.png)
 
 **Analysis Insight**: Based on the analysis above, the highest **total** sales and **total** profit was generated in the Standard class Ship mode while the Same day delivery Ship mode has the lowest **total** sale and **total** profit. This insight is useful for making impactful decisions when it comes to maximizing of the Superstore sales potential in this region of the country. For example, more efforts can vbe channelled towards optimizing Standard class delivery mode in order to maximize sales and profit.
 
